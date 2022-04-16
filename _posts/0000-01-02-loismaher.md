@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+David Hockney: "Spring Can Not Be Cancelled"
 Use the left arrow to go back!
